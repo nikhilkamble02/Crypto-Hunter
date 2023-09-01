@@ -1,7 +1,5 @@
-# Your React App Name
+# Crypto Hunter
 
-[![React Version](https://img.shields.io/badge/react-VERSION-blue.svg)](https://reactjs.org/)
-[![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
 
 A brief description of your React app.
 
@@ -10,21 +8,18 @@ A brief description of your React app.
 - [Demo](#demo)
 - [Features](#features)
 - [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Demo
 
-Provide a link to a live demo of your app if available.
+https://crypto-hunter-by-nikhil-kamble.netlify.app/
 
 ## Features
 
 List the key features of your React app.
 
-- **Feature 1:** Describe what Feature 1 does.
-- **Feature 2:** Explain the functionality of Feature 2.
-- **Feature 3:** Provide information about Feature 3.
+- **Feature 1:** Fetches all inforation about crypto currencies with price, market cap, current price
+- **Feature 2:** Shows top 10 trending currencies
+- **Feature 3:** Provide latest news about selected crypto currencies.
 
 ## Installation
 
