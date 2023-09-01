@@ -41,7 +41,7 @@ const Banner = () => {
                 marginBottom: 15,
                 fontFamily: 'Montserrat'
               }}>
-              Crypto Hunter
+              Crypto Hunter by Nikhil
             </Typography>
             <Typography
               variant='subtitle2'
